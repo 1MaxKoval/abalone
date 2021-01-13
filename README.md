@@ -11,6 +11,6 @@ The game can also be played offline with players taking turns on the same comput
 ## Implementation Key Points
 
 * Involves an implementation game server (as well as the clients) responsible for managing the hosts. 
-* Involves the use multi-threading.
+* Involves the use of multi-threading.
 * Makes use of Object-Oriented Design Pattern (MVC).
 * The main classes are tested with JUnit.
